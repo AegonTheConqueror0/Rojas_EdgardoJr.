@@ -1,0 +1,33 @@
+{
+    "Employee1": {
+      "id":1,
+      "Company Name":"YouTube",
+      "Name of Employee":"Andrew",
+      "Position":"Depende",
+      "Location":"Bajada, Davao Oriental"
+    },
+  
+    "Employee2":  {
+      "id":2,
+      "Company Name":"Mama Ning",
+      "Name of Employee":"Bruce Lee",
+      "Position":"Cashier",
+      "Location":"Narra St."
+    },
+  
+    "Employee3":  {
+      "id":3,
+      "Company Name":"Chicken Ni Bai",
+      "Name of Employee":"Arvin Perez",
+      "Position":"Tig hugas",
+      "Location":"Holy Cross"
+    },
+  
+    "Employee4": {
+      "id":4,
+      "Company Name":"Ubisoft",
+      "Name of Employee":"Ace Dela Cruz",
+      "Position":"Progremer",
+      "Location":"California"
+    }
+  }
